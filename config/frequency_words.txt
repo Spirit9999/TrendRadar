@@ -1,4 +1,26 @@
+谷歌
+google
+gemini
+deepmind
 
+chatgpt
+openai
+sora
+
+claude
+Anthropic
+ai
+!gai
+人工智能
+
+github
+ai code
+Android
+跨平台
+
+机器人
+
+自动驾驶
 
 DeepSeek
 梁文锋
@@ -22,9 +44,10 @@ DJI
 稚晖君
 彭志辉
 
-
 京东
 刘强东
+热销榜
+值得买
 
 字节
 bytedance
@@ -42,30 +65,10 @@ NVIDIA
 
 AMD
 
-谷歌
-google
-gemini
-deepmind
-
-chatgpt
-openai
-sora
-
-claude
-Anthropic
-
 iphone
 ipad
 mac
 ios
-
-ai
-!gai
-人工智能
-
-自动驾驶
-
-机器人
 
 国产
 中国
